@@ -1,5 +1,5 @@
 langchain==0.3.13
-langchain-core==0.1.53
+langchain-core
 langchain-community==0.0.20
 streamlit==1.33.0
 tiktoken==0.7.0
