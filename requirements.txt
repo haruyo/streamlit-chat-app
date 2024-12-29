@@ -1,7 +1,6 @@
-langchain==0.1.6
+langchain==0.3.13  # 新しいバージョンを使用
 langchain-core==0.1.53
 langchain-community==0.0.20
-langsmith>=0.0.83,<0.1
 streamlit==1.33.0
 tiktoken==0.7.0
 langchain-openai==0.1.3
